@@ -1,5 +1,5 @@
-CMakeFiles/main.dir/src/main.cpp.o: \
-  /Users/aakaashrohra/learn_open_gl/src/main.cpp \
+CMakeFiles/main.dir/src/shader.cpp.o: \
+  /Users/aakaashrohra/learn_open_gl/src/shader.cpp \
   /Users/aakaashrohra/learn_open_gl/include/shader.h \
   /Users/aakaashrohra/learn_open_gl/include/glad/glad.h \
   /Users/aakaashrohra/learn_open_gl/include/KHR/khrplatform.h \
@@ -750,5 +750,4 @@ CMakeFiles/main.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/u8path.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
-  /Users/aakaashrohra/learn_open_gl/include/GLFW/glfw3.h
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream

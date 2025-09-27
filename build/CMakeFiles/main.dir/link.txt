@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/glad.c.o -o main  /usr/local/lib/libglfw3.a -framework OpenGL -framework GLUT -framework Cocoa -framework IOKit -framework CoreFoundation
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/glad.c.o CMakeFiles/main.dir/src/shader.cpp.o -o main  /usr/local/lib/libglfw3.a -framework OpenGL -framework GLUT -framework Cocoa -framework IOKit -framework CoreFoundation
